@@ -1,0 +1,28 @@
+body{
+    background: black;
+}
+.card{
+    background-image: url(/img/backgorund.png);
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    background-size: cover;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 10%;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.insta{
+    list-style-image: url(/img/Insta.png);
+}
+.twt{
+    list-style-image: url(/img/Twitter.png);
+}
+.ytb{
+    list-style-image: url(/img/Youtube.png);
+}
